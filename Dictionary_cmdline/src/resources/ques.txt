@@ -1,0 +1,36 @@
+5
+Who __ I?
+4
+am
+are
+is
+no
+1
+where ___ you?
+4
+am
+is
+are
+no
+3
+I ____ you
+4
+like
+hate
+love
+look
+3
+This is ___ class
+4
+my
+his
+her
+our
+4
+He ___ like me
+4
+dont
+doesnt
+do
+does
+2
