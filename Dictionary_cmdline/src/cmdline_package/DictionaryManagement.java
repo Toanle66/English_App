@@ -64,7 +64,7 @@ public class DictionaryManagement extends Dictionary {
         filePath = scan.nextLine();
         if (filePath.isBlank()) {
             System.out.println("Không có đường dẫn được nhập, sử dụng đường dẫn mặc định...");
-            filePath = "src\\resources\\dictionaries.txt";
+            filePath = "D:\\ki 2 nam 3\\OOP\\dictionary_ooptimisic\\dictionary_cmdline\\src\\resources\\dictionaries.txt";
         } else if (Files.notExists(Path.of(filePath))) {
             System.out.println("Không thể tìm thấy file từ đường dẫn đã nhập.");
             return;

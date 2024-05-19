@@ -39,7 +39,9 @@ public class DictionaryCommandline extends DictionaryManagement {
             return 10; // out of range
         }
     }
-
+    public void initWord() {
+        this.insertFromFile();
+    }
     public void dictionaryAdvanced() {
         boolean running = true;
         do {
